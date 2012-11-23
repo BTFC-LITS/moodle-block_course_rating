@@ -60,7 +60,7 @@ class block_course_rating extends block_base {
         else $viewrating = false;
 
         // Reassure teachers that students can't see their course rating
-        $note = '<div style="font-size: 0.85em; text-align: center;">' .
+        $note = '<div style="font-size: 0.85em;">' .
                 get_string('notvisible', 'block_course_rating') . '</div>';
 
         // Display rating for course and link to course ratings explanation

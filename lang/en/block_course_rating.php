@@ -26,7 +26,7 @@
 $string['course_rating:viewrating'] = 'View the course rating';
 $string['improve'] = 'How can I improve my course rating?';
 $string['meaning'] = 'What does this mean?';
-$string['notvisible'] = 'This block is not visible to students';
+$string['notvisible'] = '(this block is not visible to students)';
 $string['pluginname'] = 'Course rating';
 $string['ratings_explained'] = 'Ratings explained';
 $string['ratings_explained_help'] = '<h1>What are course ratings?</h1>
