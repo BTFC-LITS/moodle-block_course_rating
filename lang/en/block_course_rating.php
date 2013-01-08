@@ -58,14 +58,14 @@ $string['ratings_explained_help'] = '<h1>What are course ratings?</h1>
 </table>
 <h2>How can I improve my course rating?</h2>
 <p>The easiest way to improve your course rating and better support your students, is to contact Joanna
-    in the Learning and Teaching Centre at Bispham Campus. She can advise you on good practice
+    or Sioux in the Learning and Teaching Centre at Bispham Campus. They can advise you on good practice
     in e-Learning and direct you to appropriate online and face-to-face training sessions.</p>
 <div style="background-color: #EEE; padding: 12px;">
     <h3 style="margin-top: 0;">You can contact the Learning and Teaching Centre using this information</h3>
     <table>
         <tr style="vertical-align: top">
             <td><strong>Who:&nbsp;</strong></td>
-            <td>Joanna Butler (eLearning Facilitator)</td>
+            <td>Joanna Butler or Sioux Atkinson-Jowett (Learning Technologists)</td>
         </tr>
         <tr style="vertical-align: top">
             <td><strong>Where:&nbsp;</strong></td>
@@ -73,7 +73,7 @@ $string['ratings_explained_help'] = '<h1>What are course ratings?</h1>
         </tr>
         <tr style="vertical-align: top">
             <td><strong>Tel:&nbsp;</strong></td>
-            <td>01253 504287 or ext 4287</td>
+            <td>(01253 50)4287 or (01253 50)4307</td>
         </tr>
         <tr style="vertical-align: top">
             <td><strong>Email:&nbsp;</strong></td>
