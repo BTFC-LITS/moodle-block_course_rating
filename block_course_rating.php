@@ -59,9 +59,13 @@ class block_course_rating extends block_base {
         }
         else $viewrating = false;
 
-        // Reassure teachers that students can't see their course rating
-        $note = '<div style="font-size: 0.85em;">' .
-                get_string('notvisible', 'block_course_rating') . '</div>';
+        if ($viewrating == true) {
+            // Reassure teachers that students can't see their course rating
+            $note = '<div style="font-size: 0.85em;">' .
+                    get_string('notvisible', 'block_course_rating') . '</div>';
+        } else {
+            $note = '';
+        }
 
         // Display rating for course and link to course ratings explanation
         if ($viewrating == true and $rating == 'Gold' ) {
