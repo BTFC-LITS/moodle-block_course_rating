@@ -23,6 +23,7 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
+$string['course_rating:addinstance'] = 'Add a new course rating block';
 $string['course_rating:viewrating'] = 'View the course rating';
 $string['improve'] = 'How can I improve my course rating?';
 $string['meaning'] = 'What does this mean?';
