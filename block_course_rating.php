@@ -89,7 +89,7 @@ class block_course_rating extends block_base {
             $link = '<div align="center">' . $OUTPUT->help_icon('ratings_explained',
                     'block_course_rating', get_string('improve', 'block_course_rating')) .
                     '</div>';
-        } else if ($viewrating == true and $rating == '' ) {
+        } else if ($viewrating == true and $rating === '' ) {
             $img = '<div style="margin: 6px; text-align:center;"><img src="' .
                     $CFG->wwwroot . '/blocks/course_rating/pix/in_development.png"
                     alt="In development" title="In development" width="90" height="90" /></div>';
